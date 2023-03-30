@@ -1,0 +1,9 @@
+body {
+    background-color: rgba(106, 106, 43, 0.279);
+}
+
+#name,#surname,#email,#phone,#city {
+    display: block;
+    width: 40%;
+    font: 11px Verdana, sans-serif;
+}
